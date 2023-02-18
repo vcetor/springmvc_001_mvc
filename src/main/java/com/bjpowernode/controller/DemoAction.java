@@ -20,4 +20,5 @@ public class DemoAction {
         System.out.println("服务器被访问到了.....");
         return "main"; //可以直接跳转到/admin/main.jsp页面上
     }
+    //测试GIT
 }
